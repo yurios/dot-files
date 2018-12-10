@@ -8,4 +8,8 @@ alias gd="git diff"
 alias gf="git fetch"
 alias gl="git log"
 alias gs="git status"
-alias gdc="git diff --cached
+alias gdc="git diff --cached"
+
+# clipboard
+alias copy="xclip -i -sel clip"
+alias paste="xclip -o -sel clip"
