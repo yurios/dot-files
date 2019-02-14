@@ -3,7 +3,7 @@ alias up="uptime -p"
 
 # git
 alias gb="git branch"
-alias gbva="git branch -va"
+alias gbv="git branch -va"
 
 alias gc="git commit"
 alias gca="git commit -a"
@@ -20,6 +20,11 @@ alias gf="git fetch -pva --tags"
 alias gs="git status"
 
 alias ga="git add ."
+
+# maven
+
+alias mcp="mvn clean package"
+alias mcpt="mvn clean package -DskipTests"
 
 # clipboard
 alias copy="xclip -i -sel clip"
