@@ -13,7 +13,7 @@ alias gd="git diff"
 alias gdc="git diff --cached"
 
 alias gl="git log"
-alias gl="git log --oneline"
+alias gll="git log --oneline"
 
 alias gf="git fetch -pva --tags"
 
