@@ -19,6 +19,8 @@ alias gf="git fetch -pva --tags"
 
 alias gs="git status"
 
+alias ga="git add ."
+
 # clipboard
 alias copy="xclip -i -sel clip"
 alias paste="xclip -o -sel clip"
