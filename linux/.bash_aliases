@@ -35,8 +35,14 @@ alias mcit="mvn clean install -DskipTests"
 
 
 # clipboard
+
 alias copy="xclip -i -sel clip"
 alias paste="xclip -o -sel clip"
+
+
+# system
+
+alias psgp="ps aux | grep -i "
 
 
 # load aliases specific to machine
