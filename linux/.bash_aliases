@@ -7,6 +7,7 @@ alias up="uptime -p"
 
 alias gb="git branch"
 alias gbv="git branch -va"
+alias gbvg="git branch -va | grep -i "
 
 alias gc="git commit"
 alias gca="git commit -a"
