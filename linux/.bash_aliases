@@ -44,6 +44,7 @@ alias paste="xclip -o -sel clip"
 # system
 
 alias psgp="ps aux | grep -i "
+alias ll="ls -la"
 
 
 # load aliases specific to machine
