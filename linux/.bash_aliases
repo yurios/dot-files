@@ -19,6 +19,7 @@ alias gdc="git diff --cached"
 alias gl="git log"
 alias gll="git log --oneline"
 
+alias gr="git remote -v"
 alias gf="git fetch -pva --tags"
 
 alias gs="git status"
